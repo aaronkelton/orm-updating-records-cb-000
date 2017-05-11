@@ -7,7 +7,7 @@
 3. Build a method that can *either* find and update *or* create a database record. 
 
 ## Updating Records
-It's hard to imagine a database that would stay totally static and never change. For example, a customer who uses your online market place updates their billing information or makes a new purchase. A user of your social networking site "friends" another user, creating a new association between them. A hospital updates the medical history of one of its patients. In each of these example apps that uses a database, we need to be able to update, or change, the records that are stored in that database. 
+It's hard to imagine a database that would stay totally static and never change. For example, a customer who uses your online marketplace updates their billing information or makes a new purchase. A user of your social networking site "friends" another user, creating a new association between them. A hospital updates the medical history of one of its patients. In each of these example apps that uses a database, we need to be able to update, or change, the records that are stored in that database. 
 
 What do we need to do in order to successfully update a record? First, we need to find the appropriate record. Then, we make some changes to it, and finally, save it once again. 
 
